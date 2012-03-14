@@ -1,2 +1,2 @@
-require './hopscotch.rb'
+require './daisy.rb'
 run Sinatra::Application
